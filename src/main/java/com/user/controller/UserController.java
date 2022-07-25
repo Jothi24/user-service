@@ -1,4 +1,4 @@
-package com.user.resource;
+package com.user.controller;
 
 import java.io.IOException;
 import java.util.ArrayList;
